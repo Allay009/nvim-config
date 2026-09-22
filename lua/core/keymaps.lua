@@ -7,8 +7,8 @@ keymap.set("i", "jk", "<ESC>")
 
 -- ------VISUAL MOD ------ --
 --  move one line or more
-keymap.set("v", "j", ":m>+1<CR>gv=gv")
-keymap.set("v", "k", ":m>-2<CR>gv=gv")
+--keymap.set("v", "j", ":m>+1<CR>gv=gv")
+--keymap.set("v", "k", ":m>-2<CR>gv=gv")
 
 -- ------ NORMAL MOD ------ -- 
 -- Windows
